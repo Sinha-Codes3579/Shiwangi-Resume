@@ -65,6 +65,8 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    text-decoration: none;
+    color: black;
 }
 
 
@@ -74,7 +76,8 @@ body {
 .other_project,
 .responsibility,
 .skill,
-.area_of_interest {
+.area_of_interest,
+.summary {
     padding: 1rem;
     font-size: medium;
 }
